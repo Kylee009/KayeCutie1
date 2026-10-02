@@ -5,10 +5,10 @@ geronca_students = [
     ("Alex Santos", "BSMT", 1),
     ("Micah Mendoza", "BSCS", 1),
     ("Allen Torres", "BSMT", 1),
-    ("Cheijay Paul Loberiza", "BSCS", 3),
-    ("Dean MisaBustamante", "BSMT", 3),
-    ("Datrell Quistadio", "BSCS", 4),
-    ("Cat Dela Cruz", "BSMT", 4)
+    ("Nino Salvana", "BSCS", 3),
+    ("Kristana Sarabia", "BSMT", 3),
+    ("Shirly Alaton", "BSCS", 4),
+    ("Sundae Marie Cruz", "BSMT", 4)
 ]
 
 print("Student Information")
